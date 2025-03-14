@@ -7,12 +7,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 💬 Ask me about **DevOps**
-
 - 📫 How to reach me **sayinselcuksuat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
